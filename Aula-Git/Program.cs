@@ -10,9 +10,7 @@ namespace Aula_Git
             Console.WriteLine("bom dia");
             Console.WriteLine("Meu nome é Marcelo Fernandes Nunes");
             Console.WriteLine("Estou aprendendo versionamento com git");
-
-
-
+            Console.WriteLine("Mudança de usuário");
 
             Console.ReadLine();
         }
