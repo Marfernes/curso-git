@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\bin\Debug\netcoreapp3.1\Aula-Git.exe
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\bin\Debug\netcoreapp3.1\Aula-Git.deps.json
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\bin\Debug\netcoreapp3.1\Aula-Git.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\bin\Debug\netcoreapp3.1\Aula-Git.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\bin\Debug\netcoreapp3.1\Aula-Git.dll
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\bin\Debug\netcoreapp3.1\Aula-Git.pdb
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\obj\Debug\netcoreapp3.1\Aula-Git.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\obj\Debug\netcoreapp3.1\Aula-Git.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\obj\Debug\netcoreapp3.1\Aula-Git.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\obj\Debug\netcoreapp3.1\Aula-Git.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\obj\Debug\netcoreapp3.1\Aula-Git.dll
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\obj\Debug\netcoreapp3.1\Aula-Git.pdb
+C:\Users\Lenovo\Desktop\Aula-Git\Aula-Git\obj\Debug\netcoreapp3.1\Aula-Git.genruntimeconfig.cache
