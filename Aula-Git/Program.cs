@@ -8,6 +8,8 @@ namespace Aula_Git
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("bom dia");
+            Console.WriteLine("Meu nome é Marcelo Fernandes Nunes");
+
 
             Console.ReadLine();
         }
