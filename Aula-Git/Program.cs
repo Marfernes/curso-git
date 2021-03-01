@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Aula_Git.Entities;
+using Aula_Git.Entities.Enums;
+using System;
 
 namespace Aula_Git
 {
@@ -6,13 +8,20 @@ namespace Aula_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("bom dia");
-            Console.WriteLine("Meu nome é Marcelo Fernandes Nunes");
-            Console.WriteLine("Estou aprendendo versionamento com git");
-            Console.WriteLine("Mudança de usuário");
+            Order order = new Order
+            {
+                Id = 1080,
+                Moment = DateTime.Now,
+                Status = OderStatus.PendingPayment
+            };
+            Console.WriteLine(order);
 
-            Console.ReadLine();
+            string txt = OderStatus.PendingPayment.ToString();
+            Console.WriteLine(txt);
+
+            OderStatus os = Enum.Parse<OderStatus>("Processing");
+
+            Console.WriteLine(os);
         }
     }
 }

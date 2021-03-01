@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Aula-Git\\Aula-Git\\Aula-Git.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\curso-git\\Aula-Git\\Aula-Git.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Aula-Git\\Aula-Git\\Aula-Git.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\curso-git\\Aula-Git\\Aula-Git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Aula-Git\\Aula-Git\\Aula-Git.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\curso-git\\Aula-Git\\Aula-Git.csproj",
         "projectName": "Aula-Git",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Aula-Git\\Aula-Git\\Aula-Git.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\curso-git\\Aula-Git\\Aula-Git.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Aula-Git\\Aula-Git\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\curso-git\\Aula-Git\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
